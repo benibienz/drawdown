@@ -1,3 +1,6 @@
+# NOTE: This is an old snapshot of the Drawdown model repositiory. Find the current version here: https://github.com/ProjectDrawdown/solutions
+
+
 # Project Drawdown Model Engine
 
 This is the [Project Drawdown](https://www.drawdown.org/) model engine. This is intended to be a replacement for the series of interconnected Excel spreadsheets currently used by the project to do climate solution modeling. The intention is to create an implementation which will allow us to broaden the use of the climate solution models to policymakers, business leaders, and other decisionmakers and interested parties.
